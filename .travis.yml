@@ -10,6 +10,6 @@ before_install:
 
 notifications:
     email:
-        - medikoo+d@medikoo.com
+        - simon.p.skinner+d@gmail.com
 
 script: "npm test && npm run lint"
